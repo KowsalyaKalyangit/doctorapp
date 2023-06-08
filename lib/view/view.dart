@@ -1,0 +1,13 @@
+export 'loginscreen/view.dart';
+export 'register/view.dart';
+export 'forgot_password/view.dart';
+export 'reset_password/view.dart';
+export 'owners_details/view.dart';
+export 'registeration_club/view.dart';
+export 'your_adorable_pet.dart';
+export 'upload_documents.dart';
+export 'upload_picture_detail.dart';
+export 'doctorname_page.dart';
+export 'breedname_page.dart';
+export 'pet_details/view.dart';
+export 'Dashboard/view.dart';
